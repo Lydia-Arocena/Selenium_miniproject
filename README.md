@@ -1,5 +1,5 @@
 # Selenium_project:
-![portada](logo.png)
+![portada](https://github.com/Lydia-Arocena/Selenium_project/blob/main/LOGO.png)
 ​
 ## Objetivo
 Este proyecto tiene como objetivo verificar o rechazar las 5 hipótesis planteadas sobre los datos recabados de la página web Kenay Home a través de visualizaciones. 
